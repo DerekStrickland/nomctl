@@ -1,0 +1,8 @@
+[submodule "kubectl"]
+	path = kubectl
+	url = https://github.com/kubernetes/kubectl
+	branch = master
+[submodule "nomad"]
+	path = nomad
+	url = https://github.com/hashicorp/nomad
+	branch = master
